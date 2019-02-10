@@ -5,4 +5,4 @@ There are 5 types of flower
 3)Rose
 4)Dandelion
 5)Daisy
-Convolution Neural Network is used to predict which type is present in the pcture.
+Convolutional Neural Network is used to predict which type is present in the picture.
