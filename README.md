@@ -6,3 +6,7 @@ There are 5 types of flower
 4)Dandelion
 5)Daisy
 Convolutional Neural Network is used to predict which type is present in the picture.
+
+
+
+Dataset:- https://www.kaggle.com/alxmamaev/flowers-recognition
